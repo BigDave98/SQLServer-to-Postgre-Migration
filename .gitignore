@@ -1,0 +1,22 @@
+echo "# Ambiente virtual
+venv/
+
+# Arquivos Python
+__pycache__/
+*.pyc
+
+# Configurações sensíveis
+.env
+*.secret
+
+# Logs
+*.log
+
+# Dados temporários
+data/
+tmp/
+
+# IDE
+.vscode/
+.idea/
+" > .gitignore
