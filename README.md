@@ -51,7 +51,7 @@ SQL_SERVER_PORT=1433
 SQL_SERVER_DATABASE=your_source_db
 SQL_SERVER_USER=your_username
 SQL_SERVER_PASSWORD=your_password
-SQL_SERVER_DRIVER=ODBC Driver 17 for SQL Server
+SQL_SERVER_DRIVER=ODBC+Driver+17+for+SQL+Server
 
 # PostgreSQL Configuration
 POSTGRES_HOST=your_postgres_host
